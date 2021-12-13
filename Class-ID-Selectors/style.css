@@ -1,0 +1,22 @@
+.odds {
+    background-color: lightcoral;
+        width: 500px;
+    font-family: verdana, sans-serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odds.three,
+#number4 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+        width: 500px;
+    font-weight: bold;
+}
+
